@@ -21,15 +21,15 @@ Make sure to leave an empty line before the end of the file to signal the progra
 
 Index:
 
-'#' Wall
-'a' Player
-'&' Demon
-'?' Time
-'@' Extra Life Gift
-'$' Super Transformation Gift
-'!' Freeze Gift
-'D' Door
-'%' Key
+'#' Wall,
+'a' Player,
+'&' Demon,
+'?' Time Gift,
+'@' Extra Life Gift,
+'$' Super Transformation Gift,
+'!' Freeze Gift,
+'D' Door,
+'%' Key,
 
 These are the symbols used to indicate the different elements in the game.
  
